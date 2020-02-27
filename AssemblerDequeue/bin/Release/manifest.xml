@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<PluginManifest xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name>AssemblerDequeue</Name>
+  <Guid>076ae0fa-9572-4d1d-95b1-5c6f96e714d9</Guid>
+  <Repository>AssemblerDequeue</Repository>
+  <Version>v0.0.1</Version>
+</PluginManifest>
