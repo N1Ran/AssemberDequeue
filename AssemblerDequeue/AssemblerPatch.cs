@@ -17,6 +17,8 @@ namespace AssemblerDequeue
         }
 
         public static event Action<MyProductionBlock> QueueAdded;
+        
+        
 
         private static bool OnAddItem(MyProductionBlock __instance)
         {
